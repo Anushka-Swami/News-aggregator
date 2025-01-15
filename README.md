@@ -36,7 +36,7 @@ The News Aggregator is a web-based application designed to deliver concise, summ
 ### Steps
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/username/news-aggregator.git
+   git clone https://github.com/Anushka-Swami/News-aggregator.git
    cd news-aggregator
    ```
 
