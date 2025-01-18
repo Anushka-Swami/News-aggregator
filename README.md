@@ -24,7 +24,7 @@ The News Aggregator is a web-based application designed to deliver concise, summ
 - **BeautifulSoup**: Web scraping library.
 
 ### Deployment
-- **Frontend**: Hosted on [Vercel](https://pwj6cmajvbpzhnzo.vercel.app/).
+- **Frontend**: Hosted on [Vercel](https://fxqxgtjlskjorwha.vercel.app/).
 - **Backend**: Hosted on [Render](https://news-aggregator-5tb1.onrender.com/api/articles).
 
 ## Installation
